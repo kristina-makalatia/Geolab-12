@@ -1,0 +1,48 @@
+.logo{
+	width:100px;	
+	vertical-align: middle;
+}
+.navigation-a{
+	/*font-family: "BPG Nino Mtavruli Bold", sans-serif;*/
+	font-family: 'Fahkwang', sans-serif;
+}
+.d-block{
+	display: inline-block;
+}
+.date{
+	background-color: red;
+	padding: 20px;
+}
+.image{
+	width:270px;
+	vertical-align: top;
+	margin-right:38px;
+}
+.text2{
+	width:930px;
+}
+.container{
+	margin-left:30px;
+	margin-top:30px;
+}
+.social-icon{
+	height: 30px;
+}
+.divider{
+	height: 30px;
+	width:2px;
+	background-color: #3D58A6;
+	margin:0 27px 0 27px;
+}
+.footer{
+	margin-top:30px;
+}
+.satauri{
+	font-family: 'BPG Nino Mtavruli Bold',sans-serif;
+	font-weight: 400;
+    font-style: italic;
+    text-align: center;
+}
+.font1{
+	font-family: 'Fahkwang',sans-serif;
+}
